@@ -1,0 +1,10 @@
+* dufy
+
+Colorimetry library for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/privet-kitty/dufy.git   |
+| commit  | 9a58b3a  |
+| systems | dufy |
+|---------+-------------------------------------------|
+
