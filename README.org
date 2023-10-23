@@ -2,9 +2,8 @@
 
 Colorimetry library for Common Lisp
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/privet-kitty/dufy.git   |
-| commit  | 9a58b3a  |
-| systems | dufy |
-|---------+-------------------------------------------|
-
+|---------+----------------------------------------------|
+| source  | git:https://github.com/privet-kitty/dufy.git |
+| commit  | 7febb0a                                      |
+| systems | dufy                                         |
+|---------+----------------------------------------------|
